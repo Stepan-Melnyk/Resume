@@ -84,7 +84,7 @@ a:hover {
 .info-top{
    font-style: normal;
    font-weight: bold;
-   font-size: 14px;
+   font-size: 16px;
    line-height: 17px;
    color: #000000;
    }
@@ -195,4 +195,13 @@ a:hover {
       font-size: 14px;
       line-height: 17px;
       color: #000000;
+   }
+   .Language {
+      margin-left: 40px;
+      margin-bottom: 25px;
+      color: #FFFFFF;
+   }
+   .contacts-item{
+      color: #FFFFFF;
+      text-decoration: none;
    }
