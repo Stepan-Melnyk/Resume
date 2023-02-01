@@ -8,12 +8,12 @@ body {
    background-color: #FFFFFF;
    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
    width: 1200px;
-   margin: 0 auto;
+   /* margin: 0 auto; */
 }
 .left {
    background-color: #1E2939;
    width: 370px;
-   margin-left: 40px; 
+   /* margin-left: 40px;  */
    border-radius: 32px;
    padding: 4px;
 }
